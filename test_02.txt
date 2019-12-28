@@ -1,0 +1,7 @@
+Входные данные:
+2
+1 1 2 2 3 3 4 4
+
+Результат работы:
+terminate called after throwing an instance of 'std::logic_error'
+  what():  this is not square
